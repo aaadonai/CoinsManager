@@ -13,3 +13,6 @@ spin
 GAnalytics
 font-awesome
 phantomjs
+accounts-ui
+accounts-password
+accounts-facebook
